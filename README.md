@@ -9,7 +9,7 @@ Group Members:
 How to run the project locally:
 1.Clone the repo:
             git clone https://github.com/khnmrllrc/artech.git
-            cd student-portal-django
+            cd artechweb
 2. Create and activate a virtual environment:
       Windows:
             python -m venv venv
